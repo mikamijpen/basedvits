@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-添加token，模型路径，运行maingui。
+添加characterai token，模型路径（基于原论文config），运行maingui。
 [中文文档请点击这里](https://github.com/SongtingLiu/VITS_voice_conversion/blob/main/README_CN.md)
 # VITS Voice Conversion
 This repo will guide you to add your voice into an existing VITS TTS model
